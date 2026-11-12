@@ -114,4 +114,4 @@ No paid AI API or subscription is required. AI recommendations should be reviewe
 
 ## Author
 
-AI Product Management | Customer Insights | Business Analysis | Product Strategy
+AI Product Management | AI Business Analysis | Product Strategy | Customer Insights
